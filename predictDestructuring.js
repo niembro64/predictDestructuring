@@ -8,7 +8,9 @@ const [ ,otherRandomCar ] = cars
 
 // Predict the output
 console.log(randomCar)
+// Tesla
 console.log(otherRandomCar)
+// Mercedes
 
 // Problem 2
 
@@ -21,7 +23,8 @@ const { name: otherName } = employee;
 
 
 // Predict the output
-console.log(name);
+// console.log(name);
+// error
 console.log(otherName);
 
 // Problem 3
